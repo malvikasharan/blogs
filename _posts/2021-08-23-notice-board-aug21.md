@@ -41,7 +41,6 @@ This month, I am working on a few projects and ideas that I welcome you to check
 - I am drafting my application to the 'Diversifying Leadership Programme' and thinking about how diverse leadership (or lack thereof) has impacted me and others in my network.
 - I am interested in pursuing a community-led effort on demanding investment in the usability of the technical product to ensure accessibility and user update of resources we develop. This was something I was considering for a few grant proposals, but I have put this on the back burner till I have some more capacity to take on new projects.
 - Finally, I have been thinking about community dancing (especially, tribal dance from Ranchi, Jharkhand - my hometown) that teaches us the value of 'step-by-step' and hand-held guide to doing anything that you may not have considered to do alone.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JW-N_VvO738?start=47" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Cover photo by [That's Her Business](https://unsplash.com/photos/KzeOMdcEswk) on [Unsplash](https://unsplash.com/).*
