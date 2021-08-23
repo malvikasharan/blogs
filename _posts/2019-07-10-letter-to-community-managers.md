@@ -4,6 +4,8 @@ title:  "A Friendly Letter to Community Managers"
 author: sharan
 categories: [ community, open-practices ]
 image: https://images.unsplash.com/photo-1510034696085-597d716bd162?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
+featured: true
+hidden: true
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I gave a 2-min lightning talk on &quot;Why being &#39;less-specialised&#39; is an important skill for the <a href="https://twitter.com/hashtag/Community?src=hash&amp;ref_src=twsrc%5Etfw">#Community</a> <a href="https://twitter.com/hashtag/managers?src=hash&amp;ref_src=twsrc%5Etfw">#managers</a>&quot; at <a href="https://twitter.com/hashtag/ccmcr2019?src=hash&amp;ref_src=twsrc%5Etfw">#ccmcr2019</a> at <a href="https://twitter.com/SoftwareSaved?ref_src=twsrc%5Etfw">@SoftwareSaved</a>. Since many of you related to my monologue, I posted my friendly letter to the community managers online! 💌<a href="https://t.co/uDK1fRtX2y">https://t.co/uDK1fRtX2y</a></p>&mdash; Malvika Sharan (@MalvikaSharan) <a href="https://twitter.com/MalvikaSharan/status/1167045046027337728?ref_src=twsrc%5Etfw">August 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
