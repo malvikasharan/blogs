@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why we discuss "ally skills" in open science"
+title:  "Why we discuss 'ally skills' in open science"
 author: sharan
 categories: [ community, open-practices, inclusion ]
 image: https://images.unsplash.com/photo-1620746998983-b4f9d5383a2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
