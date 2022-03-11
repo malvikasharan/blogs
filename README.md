@@ -1,5 +1,7 @@
 # Mediumish - Jekyll Theme
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6346646.svg)](https://doi.org/10.5281/zenodo.6346646)
+
 ![mediumish](assets/images/mediumish-jekyll-template.png)
 
 ### Details
