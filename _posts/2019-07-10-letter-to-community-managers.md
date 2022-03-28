@@ -14,21 +14,21 @@ hidden: true
 
 Dear Community Managers,
 
-Have you been working on multiple projects with multiple groups of people? Have you ever (or every day) felt like that you are not specialised enough? Then these next 90 seconds are for you (because I just lost 30 seconds introducing myself).
+Have you been working on multiple projects with multiple groups of people? Have you ever (or every day) felt like you are not specialised enough? Then these next 90 seconds are for you (because I just lost 30 seconds introducing myself).
 
 You may think that you are less specialised than many in your community, but that’s mostly because you know too many people of specific expertise. Remember? your job comes with the responsibility of getting to know your community members.
 
-You understand the work and needs of people in different departments, connect them with each other, and improve interoperability within your community.
+You understand the work and needs of people in different departments across multiple projects, connect them with each other, build continuation in their work and improve interoperability within your community.
 
 You develop and maintain projects that are beneficial for your members. You create an inclusive space for the new and existing members to contribute to these projects. You value their time and effort and acknowledge them for their work.
 
-You teach the same subject, over and over, to new learners, without finding that boring. And when you know that someone in your community needs training in a new skill, you learn those skills and bring that piece of new information for your members to learn.
+You teach the same subject, over and over, to new learners, without finding that boring. And when you know that someone in your community needs training in extra support (skills, resources, connections etc.), you go out of your way to make it possible for your members to participate meaningfully.
 
-You support your members in their work by offering your time, and often that means that your calendar is filled with meetings of sorts. Such involvement gives you clarity on how different resources, practices, knowledge, training, and social interactions impact different projects.
+You support your community members in their work by offering your time, and often that means that your calendar is filled with meetings that require constant 'context switching'. But you know that such involvements are crucial for understanding how different resources, practices, knowledge, training, and social interactions impact different projects.
 
-As a curious individual, you may have many specialties which we won’t explore today (because I am running short of time), but as a community manager, your specialty is to combine multiple skills rather than achieving specialisation in one single skill.
+As a curious individual, you may have many specialities which we won’t explore today (because I am running short of time), but as a community manager, your speciality is to combine multiple skills rather than achieving specialisation in one single skill.
 
-So, if you are listening to this, and if you need to hear this - your work makes a difference - (sometimes just a little bit, like a missing colon symbol in the code of your learner).
+So, if you are listening to this, and if you need to hear this - your work makes a difference - (sometimes that may look too little, like a missing colon symbol in the Python code of your learner!).
 
 Love,
 
