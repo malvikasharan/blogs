@@ -4,7 +4,7 @@ title:  "Notice Board - August 2021"
 author: sharan
 categories: [ open-practices, community, notice-board ]
 image: https://images.unsplash.com/photo-1606987482048-c6826204b417?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1100&q=80
-hidden: true
+featured: false
 ---
 
 # Announcements I am Cross-Posting this Month
