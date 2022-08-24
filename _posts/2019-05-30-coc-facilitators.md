@@ -65,7 +65,7 @@ CoC facilitators will not only make our participants feel secure in community ev
 
 ## References:
 
-* [1] Does every biased action have an effective reaction?” report on a survey “Support for Women in Science. March 25, 2019. [Preprint](http://www.sciwri.club/wp-content/uploads/2019/03/CGS-WiS_Team3_20190325.pdf).
+* [1] Does every biased action have an effective reaction? report on a survey - Support for Women in Science. SciWriClub March 25, 2019. [Preprint](https://sciwri.club/archives/8867).
 * [2] Working without fear: Results of the 2012 sexual harassment national telephone survey, Australian Human Rights Commission 2012. [Report](https://www.humanrights.gov.au/sites/default/files/document/publication/SHSR_2012%20Community%20Guide%2 0Web%20Version%20Final.pdf).
 * [3] Sexual harassment: how the genders and generations see the issue differently in the UK. Lifestyle, 2017. [Report](https://yougov.co.uk/topics/lifestyle/articles-reports/2017/11/01/sexual-harassment-how-genders-andgenerations-see).
 
