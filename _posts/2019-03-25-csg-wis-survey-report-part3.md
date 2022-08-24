@@ -2,7 +2,7 @@
 layout: post
 title:  "Does every biased action have an effective reaction?"
 author: sharan
-categories: [ article, women-in-science ]
+categories: [ article, women-in-science, community, code-of-conduct ]
 image: https://images.unsplash.com/photo-1589568533820-ae6345184dd3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80
 ---
 
