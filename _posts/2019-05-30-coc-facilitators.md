@@ -2,7 +2,7 @@
 layout: post
 title:  "Code of Conduct Facilitators - Everything you need to know."
 author: sharan
-categories: [ open-practices, community ]
+categories: [ open-practices, community, code-of-conduct ]
 image: https://images.unsplash.com/photo-1579208575657-c595a05383b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 featured: true
 hidden: true
