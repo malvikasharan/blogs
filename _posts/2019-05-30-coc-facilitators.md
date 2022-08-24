@@ -12,8 +12,9 @@ hidden: true
 
 Adoption and implementation of CoC in community spaces are required to ensure safety for all participants. A part of that includes the designation of a CoC committee who are responsible for handling CoC-related matters, including any report received regarding the breach of CoC.
 A CoC contact person at online as well as in-person events can further help ensure that trusted members of the community are available immediately to take reports if the situations arise.
-These CoC contact persons are henceforth referred to as ‘CoC facilitators’ in this document, 
-Designation of CoC facilitators can help go beyond the fact that an organisation's CoC exists or applies to the event, but build an actionable way to ensure their enforcement.
+These CoC contact persons are henceforth referred to as ‘CoC facilitators’ in this document.
+
+> Designation of CoC facilitators can help go beyond the fact that an organisation's CoC exists or applies to the event, but build an actionable way to ensure their enforcement.
 
 Everyone is susceptible to bullying and harassment and several people have experienced or continue to experience it differently. Unfortunately, not all incidents get reported due to one or multiple of the following reasons: unfamiliarity with the policies and complaint mechanisms, dealing with the situation themselves, fear of negative repercussions, the social stigma attached to victims or not perceiving offence serious enough to make formal complaints. A survey project on ‘Support for Women in STEM’ [1] showed that over 50% of the cases don’t get reported because people are not aware of the members who are designated to take reports. According to another large-scale survey conducted independently by the Australian Human Right Commission [2] and YouGov in the UK [3] state that only 20-25% of encountered incidents are reported by the targets. 
 
