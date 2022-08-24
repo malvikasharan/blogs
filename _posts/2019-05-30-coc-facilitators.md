@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-*Originally drafted on 30 May 2019 for The Carpentries Code of Conduct (CoC), in this document, I explore the role of a "CoC contact person" at online or in-person community events (in open science projects/organisations).*
+*Originally drafted on 30 May 2019 for The Carpentries Code of Conduct (CoC), in this document, I explore the role of a "CoC contact person" at online or in-person community events (in open science projects/organisations). Thanks to my long term ally in Code of Conduct, Karin Lagesen and Karen Cranston for moral support and thoughtful inputs.*
 
 Adoption and implementation of CoC in community spaces are required to ensure safety for all participants. A part of that includes the designation of a CoC committee who are responsible for handling CoC-related matters, including any report received regarding the breach of CoC.
 A CoC contact person at online as well as in-person events can further help ensure that trusted members of the community are available immediately to take reports if the situations arise.
