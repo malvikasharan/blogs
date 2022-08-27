@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-*Originally drafted on 30 May 2019 for The Carpentries Code of Conduct (CoC), in this document, I explore the role of a "CoC contact person" at online or in-person community events (in open science projects/organisations). Thanks to my long term ally in Code of Conduct, Karin Lagesen and Karen Cranston for moral support and thoughtful inputs.*
+*Originally drafted on 30 May 2019 for The Carpentries Code of Conduct (CoC), in this document, I explore the role of a "CoC contact person" at online or in-person community events (in open science projects/organisations). Thanks to my long term allies in Code of Conduct, Karin Lagesen and Karen Cranston for moral support and thoughtful inputs.*
 
 Adoption and implementation of CoC in community spaces are required to ensure safety for all participants. A part of that includes the designation of a CoC committee who are responsible for handling CoC-related matters, including any report received regarding the breach of CoC.
 A CoC contact person at online as well as in-person events can further help ensure that trusted members of the community are available immediately to take reports if the situations arise.
@@ -52,7 +52,7 @@ We further opened this discussion to the wider community in a meeting on 18 Apri
 - *Event organizers and program coordinators*: The event organizers will be responsible to designate CoC facilitators for their event. The program coordinators will be introducing this recommendation in their workflow. They will provide all the information and resources necessary for the CoC facilitators to carry out their tasks.
 - *Community members*: The designation of CoC facilitators will positively affect our community members by creating a more welcoming space for them. They will be aware of the people to who they can reach out for the necessary support if any emergency or non-emergency incident occurs.
 
-**The next important question is how we can incorporate their designation in our existing protocol for even organisation.** 
+**The next important question is how we can incorporate their designation in our existing protocols for organising events.** 
 
 Here are a few suggestions for how we can approach the issue of designating CoC facilitators:
 
@@ -65,8 +65,10 @@ CoC facilitators will not only make our participants feel secure in community ev
 
 ## References:
 
-* [1] Does every biased action have an effective reaction? report on a survey - Support for Women in Science. SciWriClub March 25, 2019. [Preprint](https://sciwri.club/archives/8867).
+* [1] Sharan, M. (2019). Does Every Biased Action Have An Effective Reaction? Zenodo. doi: [10.5281/zenodo.7027580](http://doi.org/10.5281/zenodo.7027580). (read summary in my blog under the same name: [Does Every Biased Action Have An Effective Reaction?](https://malvikasharan.github.io/blogs/csg-wis-survey-report-part3/))
 * [2] Working without fear: Results of the 2012 sexual harassment national telephone survey, Australian Human Rights Commission 2012. [Report](https://www.humanrights.gov.au/sites/default/files/document/publication/SHSR_2012%20Community%20Guide%2 0Web%20Version%20Final.pdf).
 * [3] Sexual harassment: how the genders and generations see the issue differently in the UK. Lifestyle, 2017. [Report](https://yougov.co.uk/topics/lifestyle/articles-reports/2017/11/01/sexual-harassment-how-genders-andgenerations-see).
+
+*The idea for the CoC facilitator stemmed from my research work conducted in writing the cited article **Does Every Biased Action Have An Effective Reaction?** (originally posted on [Club SciWri](https://wiscsg.github.io/wis-csg-2018/posts/part-3-biased-action-effective-reaction.html)), where we assessed responses and actions against bias and other forms of harassment (sexual, mental, emotional etc.), indicated as ‘bias incidents’, experienced or witnessed by researchers at their workplaces. We also assessed the outcome of reporting such incidents, challenges associated with them and further recommendations to address them. This article summarises one of five-part series of articles reporting on the survey “Support Received by Women in Research (CSG-WiS)” (details: [https://wiscsg.github.io/wis-csg-2018](https://wiscsg.github.io/wis-csg-2018/)). Data for this report is available under a CC-BY license which can be cited as "WiS-CSG Team, & Malvika Sharan. (2019, August 12). wiscsg/wis-csg-2018: WiS-CSG Survey 2018 data and overview (Version v0.2). [Zenodo. http://doi.org/10.5281/zenodo.3366259](Zenodo. http://doi.org/10.5281/zenodo.3366259)". All the identifiable information have been removed to maintain anonymity of the respondents.
 
 *Cover image by [@kellysikkema](https://unsplash.com/photos/XX2WTbLr3r8) on Unsplash*
